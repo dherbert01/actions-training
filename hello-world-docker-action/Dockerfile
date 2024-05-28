@@ -1,4 +1,4 @@
-FROM apline:3.10
+FROM apline:latest
 
 COPY entrypoint.sh /entrypoint.sh
 
